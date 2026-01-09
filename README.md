@@ -1,9 +1,9 @@
 # First-Lab-For-CS121-
 
-##Joseph Kloepper
+## Joseph Kloepper
 
 
-##Main Goal:
+## Main Goal:
 Over the course of this class I'm hoping to learn more about my major and how to think more like a programmer. There's so much to learn!
 
 
